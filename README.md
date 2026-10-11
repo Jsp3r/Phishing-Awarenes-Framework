@@ -26,6 +26,7 @@ When reviewing phishing exercises or training lab users, highlight these core in
 * 🚨 **Be cautious of unexpected password-expiration messages.**
 * 🔗 **Check links before clicking them.**
 * 🔒 **Never provide your password through an unexpected email link.**
-* 📞 **Verify suspicious requests to official channels & notify the IT deparment**.**
+* 📞 **Verify suspicious requests to official channels & notify the IT deparment.**
+* 🗑  **Utilize the phishing report tool to flag and remove the message.**
 
 ---
