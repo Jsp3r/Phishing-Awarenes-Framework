@@ -30,3 +30,6 @@ When reviewing phishing exercises or training lab users, highlight these core in
 * 🗑  **Utilize the phishing report tool to flag and remove the message.**
 
 ---
+
+## 📄 License
+This documentation and project materials are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
