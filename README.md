@@ -1,9 +1,9 @@
 # 🧪 Phishing Awareness Training Framework (Homelab Edition)
 
-> **⚠️ LEGAL DISCLAIMER & TERMS OF USE**  
-> This project and its documentation were created strictly for **educational purposes, authorized security awareness training, and testing within an isolated homelab environment**.  
-> Deploying phishing simulations or targeting individuals/organizations without prior explicit written permission is illegal and prohibited. **The author accepts no responsibility or liability for any misuse, unauthorized deployments, or damages resulting from this material.**
-
+**⚠️ LEGAL DISCLAIMER & TERMS OF USE**  
+* **This project and its documentation were created strictly for **educational purposes, authorized security awareness training, and testing within an isolated homelab environment**. 
+* **Deploying phishing simulations or targeting individuals/organizations without prior explicit written permission is illegal and prohibited. **The author accepts no responsibility or liability for any misuse, unauthorized deployments, or damages resulting from this material.**
+  
 ---
 
 ## 🔬 Homelab Context & Purpose
